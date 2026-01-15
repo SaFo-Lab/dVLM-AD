@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# Logs & experiment outputs
+logs/
+log/
+train/logs/
+train/exp/
+train/llava.egg-info/
+exp/
+outputs/
+runs/
+
+# W&B
+wandb/
+train/wandb/
+
+# Checkpoints / weights
+*.ckpt
+*.pth
+*.pt
+*.bin
+checkpoints/
+checkpoint/
+weights/
+
+# Data (adjust if needed)
+data/
+datasets/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
