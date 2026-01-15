@@ -39,7 +39,6 @@ Download the [checkpoint](https://huggingface.co/datasets/gray311/dVLM-AD/tree/m
 
 ```text
 checkpoints/
-└── dvlm_ad.ckpt
 ```
 
 Checkpoint download links will be provided on the project website.
