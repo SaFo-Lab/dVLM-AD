@@ -6,7 +6,7 @@
 ### Diffusion-based Vision-Language Models for Autonomous Driving
 
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://dvlm-ad.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](https://arxiv.org/abs/2512.04459)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.04459)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](./LICENSE)
 
 </div>
