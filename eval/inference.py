@@ -35,7 +35,7 @@ warnings.filterwarnings("ignore")
 
 if __name__ == "__main__":
 
-    pretrained = "/weka/home/xliu316/scratchcxiao13/yingzi/LLaDA-V/train/exp/llada-ad_finetune_waymo_cot_planning_30k"
+    pretrained = "path/to/checpoints/"
     model_name = "llava_llada"
     device = "cuda:0"
     device_map = "cuda:0"
@@ -114,4 +114,5 @@ if __name__ == "__main__":
 
     print(prompt_question)
     print(text_outputs)
+
 
