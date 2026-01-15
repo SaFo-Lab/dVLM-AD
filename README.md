@@ -35,7 +35,7 @@ bash init_env.sh
 
 ### Prepare model checkpoint
 
-Download the [checkpoint](https://huggingface.co/datasets/gray311/dVLM-AD/tree/main) and place it under:
+Download the [checkpoint](https://huggingface.co/gray311/dVLM-AD_waymo/tree/main) and place it under:
 
 ```text
 checkpoints/
