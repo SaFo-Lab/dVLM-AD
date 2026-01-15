@@ -6,4 +6,7 @@ cd train
 pip install -e ".[train]"
 cd ../..
 
+cd ./train
+pip install -e .
+
 pip install --upgrade --force-reinstall --no-cache-dir "numpy<2" scikit-learn pandas
